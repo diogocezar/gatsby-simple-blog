@@ -25,13 +25,13 @@ const create = async (actions, graphql, context, component) => {
     const { slug } = edge.node.frontmatter
     actions.createPage({
       path: `/${context}/${slug}`,
-      component: path.resolve(`src/components/${component}.js`),
+      component: path.resolve(`src/${component}`),
       context: { slug },
     })
   })
 }
 
 exports.createPages = async ({ actions, graphql }) => {
-  await create(actions, graphql, 'posts', 'BlogPost')
-  await create(actions, graphql, 'pages', 'BlogPage')
+  await create(actions, graphql, 'posts', 'templates/Blog/Posts/index.js')
+  await create(actions, graphql, 'pages', 'templates/Pages/Default/index.js')
 }

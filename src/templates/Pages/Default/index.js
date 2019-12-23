@@ -1,10 +1,12 @@
 import React from 'react'
 import { graphql } from 'gatsby'
+import SEO from "@components/SEO"
 
-export const Blog = ({ data: { markdownRemark } }) => {
+export const Default = ({ data: { markdownRemark } }) => {
   const { frontmatter, html } = markdownRemark
   return (
     <>
+      <SEO title={frontmatter.title}/>
       <h1>{frontmatter.title}</h1>
       <div
       dangerouslySetInnerHTML={{ __html: html }}
@@ -26,4 +28,4 @@ query($slug: String!) {
 }
 `
 
-export default Blog
+export default Default
