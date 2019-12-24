@@ -12,7 +12,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/lirantal/dockly.git"
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/diogocezar/gatsby-simple-blog.git"
   },
   "dependencies": {
     "gatsby": "^2.18.12",
