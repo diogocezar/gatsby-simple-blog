@@ -3,13 +3,9 @@ before_script:
   - npm install -g gatsby-cli
 node_js:
   - "10"
-script:
-  - yarn install && yarn run deploy
 deploy:
-provider: pages
+  provider: script
+  script: yarn install && yarn run deploy
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN
-  local_dir: build
-  target_branch: master
   on:
-    branch: develop
+    branch: master
