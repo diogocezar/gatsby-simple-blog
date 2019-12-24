@@ -1,0 +1,6 @@
+---
+title: "Vazio"
+date: "2012-01-21T23:53:34.000Z"
+---
+
+É só o vazio Quando não temos mais o que buscar Quando você percebe que a idade chegou Quando você lembra do quanto queria conquistar Tudo o que sonhou. . Mas nada disso existe, só o vazio. Certeza? nenhuma. Um caminho em branco Pronto para ser trilhado . Mas nada é o que parece Rosas mostram seus espinhos Amigos, se afastam E o que resta é o vazio . Uma noite em casa Sozinho, com pouca luz Na tentativa de não parecer louco Conversa assuntos qualquer com alguém que está longe . Mas o vazio continua, dentro É só o vazio, mais nada Preenchido por lembranças de tudo que não aconteceu Nada aconteceu como o planejado . A vida não é arriscar A vida não é uma aventura A vida é uma infinita tortura Viver é complicado pra quem gosta de pensar . Seria mais simples se não fossem os pensamentos As possibilidades expostas num grafo inifinito Nem a ciência pode explicar O que é viver, ou qual seu objetivo. . O que me resta são apenas dúvidas Onde estou? Pra onde vou? A única certeza é preenchida pelo vazio

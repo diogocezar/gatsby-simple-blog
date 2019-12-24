@@ -6,6 +6,7 @@ const IndexPage = ({ data }) => {
   const { pages, posts } = data
   const { edges: dataPages} = pages
   const { edges: dataPosts} = posts
+  console.log(dataPages)
   return (
     <>
       <SEO title="página principal"/>
@@ -15,7 +16,7 @@ const IndexPage = ({ data }) => {
         <li>
           <h2>{post.node.frontmatter.title}</h2>
           <h3>{post.node.frontmatter.date}</h3>
-          <a href={`/posts/${post.node.frontmatter.slug}`}>{post.node.frontmatter.slug}</a>
+          <a href={`/posts/${post.node.fields.slug}`}>{post.node.fields.slug}</a>
         </li>
       ))}
       </ul>
@@ -25,7 +26,7 @@ const IndexPage = ({ data }) => {
         <li>
           <h2>{page.node.frontmatter.title}</h2>
           <h3>{page.node.frontmatter.date}</h3>
-          <a href={`/pages/${page.node.frontmatter.slug}`}>{page.node.frontmatter.slug}</a>
+          <a href={`/pages/${page.node.fields.slug}`}>{page.node.fields.slug}</a>
         </li>
       ))}
       </ul>
@@ -42,10 +43,12 @@ export const pageQuery = graphql`
       edges {
         node {
           excerpt(pruneLength: 300)
+          fields{
+            slug
+          }
           frontmatter {
             date(formatString: "DD/MM/YYYY")
             title
-            slug
           }
         }
       }
@@ -57,10 +60,12 @@ export const pageQuery = graphql`
       edges {
         node {
           excerpt(pruneLength: 300)
+          fields{
+            slug
+          }
           frontmatter {
             date(formatString: "DD/MM/YYYY")
             title
-            slug
           }
         }
       }

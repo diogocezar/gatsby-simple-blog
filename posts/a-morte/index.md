@@ -1,7 +1,6 @@
 ---
 title: "A morte"
 date: "2008-05-01T02:31:00.000Z"
-slug: "a-morte"
 ---
 
  [![WD001060](2bc68aef-8432-41d4-ae4b-35cd1e96926b.jpg)](http://lh5.ggpht.com/xgordo/SEAjbeOL7KI/AAAAAAAAAM8/w83EPOwLv_4/s1600-h/morte_suicidio%20copy%5B4%5D.jpg)

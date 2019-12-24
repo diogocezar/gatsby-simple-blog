@@ -1,0 +1,6 @@
+---
+title: "Eu vou ter o seu coração"
+date: "2012-05-29T01:37:29.000Z"
+---
+
+Música de **Death Cab For Cutie, i will possess your heart.** \[embed\]https://www.youtube.com/watch?v=pq-yP7mb8UE\[/embed\] Como eu queria que você visse o potencial, o potencial de você e eu É como um elegante livro encadernado, mas em uma língua que você não pode ler - ainda Você tem que passar um tempo--amor, você tem que passar um tempo comigo E eu sei que você vai entender--amor, eu vou tomar posse do seu coração (2x) Tem dias que, na sua janela do lado de fora, eu vejo meu reflexo enquanto eu passo vagarosamente E eu almejo essa perspectiva espelhada, quando formos namorados, finalmente namorados Você tem que passar um tempo--amor, você tem que passar um tempo comigo E eu sei que você vai entender--amor, eu vou tomar posse do seu coração (2x) Eu vou tomar posse do seu coração. (2x) Você rejeita meus avanços e pedidos desesperados Eu não vou deixar você, você me derrubar tão facilmente, tão facilmente Você tem que passar um tempo--amor, você tem que passar um tempo comigo E eu sei que você vai entender--amor, eu vou tomar posse do seu coração (3x) Eu vou tomar posse do seu coração. (2x)
